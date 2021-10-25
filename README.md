@@ -1,4 +1,4 @@
-### Hi there 👋, Hey 👋 developers 😉 I'm Uday
+### Hey 👋 developers 😉 I'm Uday
 #### I'm a self taught programmer
 ![I'm a self taught programmer](https://raw.githubusercontent.com/Uday-lal/Uday-lal/main/bannerGif.gif)
 
