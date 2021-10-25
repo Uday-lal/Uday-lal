@@ -1,4 +1,4 @@
-### Hey 👋 devlopers 😉 I'm Uday
+### Hey 👋 developers 😉 I'm Uday
 
 <!--
 **Uday-lal/Uday-lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
