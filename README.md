@@ -13,6 +13,4 @@ Skills: Python / REACT / JS / HTML / CSS / Full Stack Development
 - 💬 Ask me about Anything 😊 
 - 📫 How to reach me: My LinkedIn: https://www.linkedin.com/in/uday-lal-03418621a/ and My website: https://portfoilio.pages.dev/ 
 
-<div align="center">
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uday-lal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/udaylal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uday-lal-03418621a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfoilio.pages.dev/)  
-</div>
