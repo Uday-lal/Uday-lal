@@ -1,16 +1,17 @@
-### Hey 👋 developers 😉 I'm Uday
+### Hi there 👋, Hey 👋 developers 😉 I'm Uday
+#### I'm a self taught programmer
+![I'm a self taught programmer](https://raw.githubusercontent.com/Uday-lal/Uday-lal/main/bannerGif.gif)
 
-<!--
-**Uday-lal/Uday-lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I first wrote "Hello world" on the console I just
+fell in love ❤ this world of software engineering. I am very committed to learning and improving my skills, Since then I get progressively better. There are some projects that show up my
+skills.
 
-Here are some ideas to get you started:
+Skills: Python / REACT / JS / HTML / CSS / Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My Portfolio 
+- 🌱 I’m currently learning Android Development 
+- 💬 Ask me about Anything 😊 
+- 📫 How to reach me: My LinkedIn: https://www.linkedin.com/in/uday-lal-03418621a/ and My website: https://portfoilio.pages.dev/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Uday-lal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/udaylal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uday-lal-03418621a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfoilio.pages.dev/)  
