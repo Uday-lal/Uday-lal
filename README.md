@@ -3,7 +3,7 @@
 ![I'm a self taught programmer](https://raw.githubusercontent.com/Uday-lal/Uday-lal/main/bannerGif.gif)
 
 When I first wrote "Hello world" on the console I just
-fell in love ❤ this world of software engineering. I am very committed to learning and improving my skills, Since then I get progressively better. There are some projects that show up my
+fell in love ❤ with this world of software engineering. I am very committed to learning and improving my skills, Since then I get progressively better. There are some projects that show up my
 skills.
 
 Skills: Python / REACT / JS / HTML / CSS / Full Stack Development
