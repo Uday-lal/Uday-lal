@@ -1,5 +1,5 @@
 ### Hey 👋 developers 😉 I'm Uday
-#### I'm a self taught programmer
+#### I'm a full stack developer
 ![I'm a full stack developer](https://raw.githubusercontent.com/Uday-lal/Uday-lal/main/bannerGif.gif)
 
 When I first wrote "Hello world" on the console I just
