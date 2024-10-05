@@ -1,6 +1,5 @@
 ### Hey 👋 developers 😉 I'm Uday
 #### I'm a full stack developer
-![I'm a full stack developer]
 
 When I first wrote "Hello world" on the console I just
 fell in love ❤ with this world of software engineering. I am very committed to learning and improving my skills, Since then I get progressively better. There are some projects that show up my
