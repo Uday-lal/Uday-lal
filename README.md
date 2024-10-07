@@ -7,7 +7,7 @@ skills.
 
 Skills: Python / REACT / JS / HTML / CSS / Full Stack Development
 
-- 🔭 I’m currently working on My Portfolio 
+- 🔭 I’m currently working on Chess Game ♟️♟️
 - 🌱 I’m currently learning Android Development 
 - 💬 Ask me about Anything 😊 
 - 📫 How to reach me: My LinkedIn: https://www.linkedin.com/in/uday-lal-03418621a/ and My website: https://portfoilio.pages.dev/ 
